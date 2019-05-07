@@ -137,5 +137,6 @@ connection.connect(function(err) {
             afterConnection();
         });
     });
-        }
+//end purchased        
+}
      
