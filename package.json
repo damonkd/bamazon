@@ -1,6 +1,12 @@
 {
+<<<<<<< HEAD
   "name": "bamazon",
   "version": "1.0.0",
+=======
+  "name": "top-5000-songs",
+  "version": "1.0.0",
+  "description": "",
+>>>>>>> 9608d8c187b4ba5fc9284c95696d178a6ed15470
   "main": "TopSongsCode.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +16,7 @@
   "dependencies": {
     "inquirer": "^6.2.1",
     "mysql": "^2.16.0"
+<<<<<<< HEAD
   },
   "devDependencies": {},
   "repository": {
@@ -21,4 +28,7 @@
   },
   "homepage": "https://github.com/damonkd/bamazon#readme",
   "description": ""
+=======
+  }
+>>>>>>> 9608d8c187b4ba5fc9284c95696d178a6ed15470
 }
